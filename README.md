@@ -10,4 +10,4 @@ Please add plugin below:
 
 Please update project after import to eclipse <= build nessesary dependencies inside pom.xml file
 
-For running test cases: go to TestRunner.java file (src\test\java\StepDefinitions) => right click => select Run As => Select JUnit Test
+For running test cases: go to TestRunner.java file (src\test\java\StepDefinitions) => right click => select Run As => select JUnit Test
